@@ -45,3 +45,5 @@ function duplicateSpreadsheet(original) {
 
 copyObj = duplicateSpreadsheet(original);
 ```
+
+- immutabilty
